@@ -1,5 +1,11 @@
 # Zomato Data Analysis
 
+## Data Loading
+## Data Cleaning
+## Exploratory Data Analysis
+## Data Visualization
+## Insights
+
 ## 📌 Project Overview
 
 This project performs **Exploratory Data Analysis (EDA)** on a Zomato restaurant dataset to understand trends in restaurant ratings, pricing, cuisines, and city distribution.
@@ -74,12 +80,12 @@ Examples of visualizations:
 
 ---
 
-## 📈 Key Insights
+Final Insights
 
-* Most restaurants have ratings between **3.5 and 4.5**.
-* Certain cities have significantly more restaurants than others.
-* Higher priced restaurants tend to have slightly better ratings.
-* Some cuisines dominate the restaurant market.
+1. Most restaurants have ratings between 3.5–4.5.
+2. Some cities dominate the restaurant market.
+3. Higher priced restaurants slightly tend to have better ratings.
+4. Certain cuisines are more popular among users.
 
 ---
 
