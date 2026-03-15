@@ -78,6 +78,8 @@ Examples of visualizations:
 
 ![Price vs Rating](images/price_vs_rating.png)
 
+![Restaurants per City](images/city_restaurants.png)
+
 ---
 
 Final Insights
