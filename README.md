@@ -66,6 +66,13 @@ Examples of visualizations:
 * Top cuisines
 
 ---
+## Visualization
+
+![Rating Distribution](images/rating_distribution.png)
+
+![Price vs Rating](images/price_vs_rating.png)
+
+---
 
 ## 📈 Key Insights
 
