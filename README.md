@@ -95,15 +95,15 @@ Final Insights
 
 Zomato-Data-Analysis
 │
-├── data
-│   └── enhanced_zomato_dataset_clean.csv
+├── images
+│
+└── README.md
 │
 ├── notebook
 │   └── zomato_analysis.ipynb
 │
-├── images
-│
-└── README.md
+├── data
+│   └── enhanced_zomato_dataset_clean.csv
 
 ---
 
