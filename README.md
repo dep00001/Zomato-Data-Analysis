@@ -19,6 +19,10 @@ Rating Distribution Analysis
 City-wise Restaurant Distribution
 Price vs Rating Analysis
 
+## Visualizations
+
+![Rating Distribution](images/rating_distribution.png)
+
 ## Key Insights
 Most restaurants have ratings between 3.5 and 4.5.
 Some cities dominate the restaurant market.
